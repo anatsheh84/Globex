@@ -7,7 +7,6 @@ resources:
 - dep-inventory-database.yaml
 - dep-inventory.yaml
 - dep-order-placement.yaml
-- dep-recommendation-engine.yaml
 - rt-activity-tracking-simulator.yaml
 - rt-catalog.yaml
 - rt-globex-ui.yaml
@@ -15,7 +14,6 @@ resources:
 - sa-activity-tracking.yaml
 - sa-catalog-app.yaml
 - sa-globex-app-globex-ui.yaml
-- sa-globex-app-recommendation-engine.yaml
 - sa-inventory-app.yaml
 - sa-order-placement.yaml
 - secret-image-registry.yaml
@@ -23,7 +21,6 @@ resources:
 - secret-catalog-database.yaml
 - secret-inventory-database.yaml
 - secret-order-placement.yaml
-- secret-recommendation-engine.yaml
 - svc-activity-tracking-simulator.yaml
 - svc-activity-tracking.yaml
 - svc-catalog-database.yaml
@@ -32,4 +29,3 @@ resources:
 - svc-inventory-database.yaml
 - svc-inventory.yaml
 - svc-order-placement.yaml
-- svc-recommendation-engine.yaml
